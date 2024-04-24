@@ -1,21 +1,4 @@
-¡Hola, Alexander Luna! ¡Claro que sí, estaré encantado de ayudarte a mejorar tu perfil para incluir tecnologías de desarrollo de Android Studio, React y Laravel! Aquí tienes una versión actualizada:
-
-Acerca de mí
-💻 Actualmente estoy enfocado en proyectos de IA y ML, así como en desarrollo de aplicaciones móviles con Android Studio y aplicaciones web con React y Laravel.
-🌱 Siempre aprendiendo y explorando nuevas tecnologías en el campo de la inteligencia artificial, el aprendizaje automático y el desarrollo de software.
-👨‍💻 Buscando colaborar en proyectos interesantes que abarquen diferentes áreas de tecnología.
-Lenguajes y herramientas
-Python
-TensorFlow
-Scikit-learn
-Pandas
-NumPy
-Matplotlib
-Android Studio
-React
-Laravel
-Contacto
-¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre proyectos en Android Studio, React o Laravel!
+Acerca de mí 💻 Actualmente estoy enfocado en proyectos de desarrollo móvil con Android Studio, así como en el desarrollo de aplicaciones web con React y Laravel. 🌱 Siempre aprendiendo y explorando nuevas tecnologías en el campo del desarrollo de software. 👨‍💻 Buscando colaborar en proyectos interesantes que abarquen diferentes áreas de tecnología. Lenguajes y herramientas: Python, Android Studio, React y Laravel. Contacto: ¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre proyectos en desarrollo móvil con Android Studio, desarrollo web con React y Laravel!
 
 ## Contacto
 
