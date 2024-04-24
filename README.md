@@ -27,9 +27,5 @@
 ### Estadísticas Generales
 ![Contribuciones](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&count_private=true&show_icons=true&theme=dark&hide=contribs,prs)
 
-### Actividad Reciente
-![Actividad Reciente](https://github-readme-stats.vercel.app/api/wakatime?username=Alexander-Luna&theme=dark)
-
-### Seguidores y Contribuciones
+### Seguidores
 ![Seguidores](https://img.shields.io/github/followers/Alexander-Luna?label=Followers&style=social)
-![Contribuciones](https://img.shields.io/github/commit-activity/m/Alexander-Luna?label=Commit%20Activity&style=social)
