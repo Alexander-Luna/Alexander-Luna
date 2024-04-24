@@ -8,7 +8,21 @@ Acerca de mí 💻 Actualmente estoy enfocado en proyectos de desarrollo móvil 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?logo=whatsapp)](https://wa.me/+593985726434)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alexander-luna-arteaga/)
 
-##  Trofeos y Estadística
+## Trofeos y Estadísticas
+
+### Trofeos de GitHub
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexander-Luna)
+
+### Lenguajes más Utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna)
+
+### Estadísticas Generales
 ![Contribuciones](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&count_private=true&show_icons=true&theme=default&hide=contribs,prs)
+
+### Actividad Reciente
+![Actividad Reciente](https://github-readme-stats.vercel.app/api/wakatime?username=Alexander-Luna)
+
+### Seguidores y Contribuciones
+![Seguidores](https://img.shields.io/github/followers/Alexander-Luna?label=Followers&style=social)
+![Contribuciones](https://img.shields.io/github/commit-activity/m/Alexander-Luna?label=Commit%20Activity&style=social)
+
