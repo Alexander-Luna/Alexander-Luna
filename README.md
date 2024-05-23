@@ -25,10 +25,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=dark&layout=compact)
 
 ### Estadísticas Generales
-![Contribuciones](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&count_private=true&show_icons=true&theme=dark&hide=contribs,prs)
+![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=radical)
 
 ### Seguidores
 ![Seguidores](https://img.shields.io/github/followers/Alexander-Luna?label=Followers&style=social)
 
-![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=radical)
+
 
