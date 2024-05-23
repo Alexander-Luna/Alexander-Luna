@@ -29,3 +29,6 @@
 
 ### Seguidores
 ![Seguidores](https://img.shields.io/github/followers/Alexander-Luna?label=Followers&style=social)
+
+![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=radical)
+
