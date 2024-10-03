@@ -22,13 +22,13 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexander-Luna&theme=dracula&column=7)
 
 ### Lenguajes más Utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=github_dark&layout=compact)
 
 ### Estadísticas Generales
-![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=prussian)
+![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=github_dark)
 
 ### Seguidores
-![Seguidores](https://img.shields.io/github/followers/Alexander-Luna?label=Followers&style=social)
+![Seguidores](https://img.shields.io/github/followers/Alexander-Luna?label=Followers&style=social&theme=github_dark)
 
 
 
