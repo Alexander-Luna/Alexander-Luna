@@ -19,13 +19,13 @@
 ## Trofeos y Estadísticas
 
 ### Trofeos de GitHub
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexander-Luna&theme=radical&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexander-Luna&theme=tokyonight&column=7)
 
 ### Lenguajes más Utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=tokyonight&layout=compact)
 
 ### Estadísticas Generales
-![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=radical)
+![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=tokyonight)
 
 ### Seguidores
 ![Seguidores](https://img.shields.io/github/followers/Alexander-Luna?label=Followers&style=social)
