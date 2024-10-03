@@ -1,6 +1,5 @@
 # Acerca de mí 💻
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ¡Hola! Soy Alexander, un apasionado desarrollador de software enfocado en proyectos móviles con Android Studio y aplicaciones web con React y Laravel. Siempre estoy buscando aprender y explorar nuevas tecnologías en el campo del desarrollo de software. 👨‍💻 Me encantaría colaborar en proyectos interesantes que abarquen diferentes áreas de la tecnología.
 
 ## Lenguajes y herramientas
@@ -23,7 +22,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexander-Luna&theme=darkhub&column=7)
 
 ### Lenguajes más Utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=radical&layout=compact)
 
 ### Estadísticas Generales
 ![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=radical)
