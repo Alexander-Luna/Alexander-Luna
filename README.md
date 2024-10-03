@@ -19,7 +19,7 @@
 ## Trofeos y Estadísticas
 
 ### Trofeos de GitHub
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexander-Luna&theme=dracula&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alexander-Luna&theme=dracula&column=12)
 
 ### Lenguajes más Utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=github_dark&layout=compact)
