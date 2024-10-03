@@ -42,6 +42,10 @@
 ### Estadísticas Generales
 ![Logros](https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=github_dark)
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Luna&theme=github_dark&hide_border=true"/>
+</p>
+
 ### Seguidores
 ![Seguidores](https://img.shields.io/github/followers/Alexander-Luna?label=Followers&style=social&theme=github_dark)
 
