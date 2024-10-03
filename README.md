@@ -1,5 +1,5 @@
 # Acerca de mí 💻
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Alexander-Luna/bbfce31e0217a3689c8d961a356cb10d/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Luna&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ¡Hola! Soy Alexander, un apasionado desarrollador de software enfocado en proyectos móviles con Android Studio y aplicaciones web con React y Laravel. Siempre estoy buscando aprender y explorar nuevas tecnologías en el campo del desarrollo de software. 👨‍💻 Me encantaría colaborar en proyectos interesantes que abarquen diferentes áreas de la tecnología.
 
 ## Lenguajes y herramientas
