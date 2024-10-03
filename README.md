@@ -1,6 +1,6 @@
 # Acerca de mí 💻
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Luna&repo=EcommerceRopa)](https://github.com/Alexander-Luna/EcommerceRopa)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&layout=compact)
 ¡Hola! Soy Alexander, un apasionado desarrollador de software enfocado en proyectos móviles con Android Studio y aplicaciones web con React y Laravel. Siempre estoy buscando aprender y explorar nuevas tecnologías en el campo del desarrollo de software. 👨‍💻 Me encantaría colaborar en proyectos interesantes que abarquen diferentes áreas de la tecnología.
 
 ## Lenguajes y herramientas
