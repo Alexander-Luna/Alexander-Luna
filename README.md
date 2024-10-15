@@ -6,9 +6,6 @@ Soy un **Desarrollador de Software** apasionado con un enfoque en **desarrollo m
 
 Soy una persona **orientada a resultados**, siempre en busca de mejorar mis habilidades técnicas y aprender nuevas tecnologías. Me encanta trabajar en equipo y colaborar en proyectos que presenten **desafíos** y oportunidades para innovar.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Luna&theme=github_dark&hide_border=true"/>
-</p>
 
 ## 💻 Habilidades Técnicas
 
