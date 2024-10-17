@@ -4,7 +4,7 @@
 
 Soy un **Desarrollador de Software** apasionado con un enfoque en **desarrollo móvil** y **desarrollo web**. Mi objetivo es crear soluciones de software que impacten positivamente en la vida de las personas. Tengo experiencia desarrollando aplicaciones móviles con **Android Studio** y construyendo plataformas web robustas utilizando **React** y **Laravel**. 🚀 
 
-Soy una persona **orientada a resultados**, siempre en busca de mejorar mis habilidades técnicas y aprender nuevas tecnologías. Me encanta trabajar en equipo y colaborar en proyectos que presenten **desafíos** y oportunidades para innovar.
+Soy una persona **orientada a resultados**, siempre en busca de mejorar mis habilidades técnicas. Me encanta trabajar en equipo y colaborar en proyectos que presenten **desafíos** y oportunidades para innovar.
 
 
 ## 💻 Habilidades Técnicas
