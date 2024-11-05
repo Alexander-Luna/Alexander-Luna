@@ -18,7 +18,7 @@ Tengo un enfoque **full-stack**, trabajando tanto en el **front-end** como en el
   
 ## 🛠️ Tecnologías y Herramientas que Uso
 <p>
-	<a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,kotlin,angular,wordpress,django,flask,azure,vite,tailwind,npm,androidstudio,flutter,docker,github,git"></a>
+	<a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,kotlin,angular,wordpress,django,flask,azure,vite,npm,androidstudio,flutter,docker,github,git"></a>
 </p>
 ### 🔧 Software, Sistemas Operativos
 
