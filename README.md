@@ -13,31 +13,14 @@ Tengo un enfoque **full-stack**, trabajando tanto en el **front-end** como en el
 
 ### Lenguajes de Programación:
 <p>
-	<a href="https://elvismacas.site/](https://alexanderdev-portafolio.vercel.app/"><img alt="Languages" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,go"></a>
+	<a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Languages" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,go"></a>
 </p>
   
-### Frameworks y Herramientas:
-- **React**: Para interfaces de usuario rápidas y dinámicas.
-- **Next.js**: Para aplicaciones web optimizadas y escalables.
-- **Laravel**: Framework robusto para aplicaciones web de alta calidad.
-- **Android Studio**: Desarrollo de aplicaciones móviles Android nativas.
-- **Tailwind CSS & Bootstrap**: Diseño web moderno y responsivo.
-- **Material-UI**: Para interfaces de usuario elegantes y consistentes.
-
 ## 🛠️ Tecnologías y Herramientas que Uso
+<p>
+	<a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,angular,wordpress,django,vite,tailwind,npm,androidstudio,flutter"></a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?logo=blade&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 - **Aplicaciones móviles Android** con experiencias de usuario intuitivas y eficientes.
