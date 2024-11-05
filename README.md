@@ -12,11 +12,9 @@ Soy una persona **orientada a resultados**, siempre en busca de mejorar mis habi
 Tengo un enfoque **full-stack**, trabajando tanto en el **front-end** como en el **back-end**, con las siguientes tecnologías:
 
 ### Lenguajes de Programación:
-- **PHP**
-- **Java**
-- **Python**
-- **TypeScript**
-- **JavaScript**
+<p>
+	<a href="https://elvismacas.site/](https://alexanderdev-portafolio.vercel.app/"><img alt="Languages" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,go"></a>
+</p>
   
 ### Frameworks y Herramientas:
 - **React**: Para interfaces de usuario rápidas y dinámicas.
