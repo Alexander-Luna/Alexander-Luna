@@ -20,13 +20,13 @@ Tengo un enfoque **full-stack**, trabajando tanto en el **front-end** como en el
 <p>
 	<a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,kotlin,angular,wordpress,django,flask,azure,vite,npm,androidstudio,flutter,docker,github,git"></a>
 </p>
-### 🔧 Software, Sistemas Operativos
+## 🔧 Software, Sistemas Operativos
 
 <p>
 	<a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Tools" src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,kali,androidstudio,gradle,arduino,git,github,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse"></a> 
 
 </p>
-### 🗄️ Gestores BD y Hosting
+## 🗄️ Gestores BD y Hosting
 
 <p>
 <a href="https://alexanderdev-portafolio.vercel.app/"><img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen"></a>
