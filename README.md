@@ -6,87 +6,51 @@ Desarrollador de Software apasionado por el desarrollo móvil y web, con experie
 
 Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguientes tecnologías:
 
-**Lenguajes de Programación:**
-
 <!-- Lenguajes de Programación -->
 <p align="center">
+    <strong>**Lenguajes de Programación:**</strong>
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=html" width="auto">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=css" width="auto">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=js" width="auto">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=php" width="auto">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=py" width="auto">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=java" width="auto">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=ts" width="auto">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=go" width="auto">
-    </a>
-</p>
-**FrontEnd:**
-<!-- Frontend -->
-<p align="center">
-    <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=bootstrap" width="auto">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=tailwindcss" width="auto">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=jquery" width="auto">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=react" width="auto">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=redux" width="auto">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=angular" width="auto">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=materialui" width="auto">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=vite" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,go" width="auto">
     </a>
 </p>
 
-**BackEnd:**
+<!-- Frontend (Web) -->
 <p align="center">
+    <strong>**Frontend (Web):**</strong>
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Backend" src="https://skillicons.dev/icons?i=laravel" width="auto">
-        <img alt="Backend" src="https://skillicons.dev/icons?i=django" width="auto">
-        <img alt="Backend" src="https://skillicons.dev/icons?i=flask" width="auto">
-        <img alt="Backend" src="https://skillicons.dev/icons?i=kotlin" width="auto">
-        <img alt="Backend" src="https://skillicons.dev/icons?i=php" width="auto">
-        <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,materialui,react,redux,angular,vite" width="auto">
     </a>
 </p>
 
-**Bases de Datos:**
+<!-- Backend (Web) -->
 <p align="center">
+    <strong>**Backend (Web):**</strong>
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=postgres" width="auto">
-        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=mysql" width="auto">
-        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=mongodb" width="auto">
-        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=sqlite" width="auto">
-        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=firebase" width="auto">
+        <img alt="Backend" src="https://skillicons.dev/icons?i=laravel,django,flask,php,azure,nodejs" width="auto">
     </a>
 </p>
 
-**Herramientas:**
+<!-- Bases de Datos -->
 <p align="center">
+    <strong>**Bases de Datos:**</strong>
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=docker" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=github" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=git" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=linux" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=windows" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=ubuntu" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=debian" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=kali" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=git" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=nginx" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=postman" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=powershell" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=gradle" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=arduino" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=netlify" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=heroku" width="auto">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=gcp" width="auto">
+        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" width="auto">
     </a>
 </p>
 
-**Desarrollo Móvil:**
+<!-- Herramientas -->
 <p align="center">
+    <strong>**Herramientas:**</strong>
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Móvil" src="https://skillicons.dev/icons?i=androidstudio" width="auto">
-        <img alt="Móvil" src="https://skillicons.dev/icons?i=flutter" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=docker,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse,heroku,gcp,codepen" width="auto">
+    </a>
+</p>
+
+<!-- Desarrollo Móvil -->
+<p align="center">
+    <strong>**Desarrollo Móvil:**</strong>
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Desarrollo Móvil" src="https://skillicons.dev/icons?i=androidstudio,flutter" width="auto">
     </a>
 </p>
 
