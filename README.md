@@ -6,7 +6,7 @@ Desarrollador de Software apasionado por el desarrollo móvil y web, con experie
 
 Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguientes tecnologías:
 
-    <strong>**Lenguajes de Programación:**</strong>
+    **Lenguajes de Programación:**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
@@ -16,7 +16,7 @@ Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguiente
 
 <!-- Frontend (Web) -->
 
-    <strong>**Frontend (Web):**</strong>
+    **Frontend (Web):**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
@@ -26,7 +26,7 @@ Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguiente
 
 <!-- Backend (Web) -->
 
-    <strong>**Backend (Web):**</strong>
+    **Backend (Web):**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
@@ -36,7 +36,7 @@ Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguiente
 
 <!-- Bases de Datos -->
 
-    <strong>**Bases de Datos:**</strong>
+    **Bases de Datos:**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
@@ -46,7 +46,7 @@ Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguiente
 
 <!-- Herramientas -->
 
-    <strong>**Herramientas:**</strong>
+    **Herramientas:**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
@@ -56,7 +56,7 @@ Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguiente
 
 <!-- Desarrollo Móvil -->
 
-    <strong>**Desarrollo Móvil:**</strong>
+    **Desarrollo Móvil:**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
