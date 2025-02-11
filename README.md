@@ -8,9 +8,88 @@ Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguiente
 
 **Lenguajes de Programación:**
 
+<!-- Lenguajes de Programación -->
 <p align="center">
-    <a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Lenguajes" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,go" width="auto"></a>
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=html" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=css" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=js" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=php" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=py" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=java" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=ts" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=go" width="auto">
+    </a>
 </p>
+**FrontEnd:**
+<!-- Frontend -->
+<p align="center">
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=bootstrap" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=tailwindcss" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=jquery" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=react" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=redux" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=angular" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=materialui" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=vite" width="auto">
+    </a>
+</p>
+
+**BackEnd:**
+<p align="center">
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Backend" src="https://skillicons.dev/icons?i=laravel" width="auto">
+        <img alt="Backend" src="https://skillicons.dev/icons?i=django" width="auto">
+        <img alt="Backend" src="https://skillicons.dev/icons?i=flask" width="auto">
+        <img alt="Backend" src="https://skillicons.dev/icons?i=kotlin" width="auto">
+        <img alt="Backend" src="https://skillicons.dev/icons?i=php" width="auto">
+        <img alt="Backend" src="https://skillicons.dev/icons?i=nodejs" width="auto">
+    </a>
+</p>
+
+**Bases de Datos:**
+<p align="center">
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=postgres" width="auto">
+        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=mysql" width="auto">
+        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=mongodb" width="auto">
+        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=sqlite" width="auto">
+        <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=firebase" width="auto">
+    </a>
+</p>
+
+**Herramientas:**
+<p align="center">
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=docker" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=github" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=git" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=linux" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=windows" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=ubuntu" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=debian" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=kali" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=git" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=nginx" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=postman" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=powershell" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=gradle" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=arduino" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=netlify" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=heroku" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=gcp" width="auto">
+    </a>
+</p>
+
+**Desarrollo Móvil:**
+<p align="center">
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Móvil" src="https://skillicons.dev/icons?i=androidstudio" width="auto">
+        <img alt="Móvil" src="https://skillicons.dev/icons?i=flutter" width="auto">
+    </a>
+</p>
+
 
 **Tecnologías y Herramientas (incluyendo SO, Software y BD):**
 
