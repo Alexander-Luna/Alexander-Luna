@@ -6,37 +6,33 @@ Desarrollador de Software apasionado por el desarrollo móvil y web, con experie
 
 Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguientes tecnologías:
 
-    **Lenguajes de Programación:**
+**Lenguajes de Programación:**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,go" width="auto">
+        <img alt="Lenguajes" src="https://skillicons.dev/icons?i=php,js,ts,java,kotlin,dart,py,go" width="auto">
     </a>
 </p>
 
 <!-- Frontend (Web) -->
 
-    **Frontend (Web):**
+**Frontend (Web):**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Frontend" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,materialui,react,redux,angular,vite" width="auto">
+        <img alt="Frontend" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,jquery,materialui,react,redux,angular,vite" width="auto">
     </a>
 </p>
 
-<!-- Backend (Web) -->
-
-    **Backend (Web):**
+**Backend (Web):**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Backend" src="https://skillicons.dev/icons?i=laravel,django,flask,php,azure,nodejs" width="auto">
+        <img alt="Backend" src="https://skillicons.dev/icons?i=laravel,php,fastapi,spring" width="auto">
     </a>
 </p>
 
-<!-- Bases de Datos -->
-
-    **Bases de Datos:**
+**Bases de Datos:**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
@@ -44,30 +40,45 @@ Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguiente
     </a>
 </p>
 
+**Nube y Desarrollo en la Nube:**
+
+<p align="center">
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Nube" src="https://skillicons.dev/icons?i=azure,gcp,netlify,nginx" width="auto">
+    </a>
+</p>
 <!-- Herramientas -->
 
-    **Herramientas:**
+**Herramientas:**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Herramientas" src="https://skillicons.dev/icons?i=docker,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse,heroku,gcp,codepen" width="auto">
+        <img alt="Herramientas" src="https://skillicons.dev/icons?i=docker,github,git,postman,powershell,pycharm,phpstorm,vscode,eclipse" width="auto">
     </a>
 </p>
 
-<!-- Desarrollo Móvil -->
-
-    **Desarrollo Móvil:**
+**Desarrollo Móvil:**
 
 <p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
-        <img alt="Desarrollo Móvil" src="https://skillicons.dev/icons?i=androidstudio,flutter" width="auto">
+        <img alt="Desarrollo Móvil" src="https://skillicons.dev/icons?i=androidstudio,gradle,flutter" width="auto">
     </a>
 </p>
 
-**Tecnologías y Herramientas (incluyendo SO, Software y BD):**
+**Sistemas Operativos:**
 
 <p align="center">
-    <a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Tecnologías" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,kotlin,angular,wordpress,django,flask,azure,vite,npm,androidstudio,flutter,docker,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse,postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen" width="auto"></a>
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Sistemas Operativos" src="https://skillicons.dev/icons?i=linux,kali,windows,ubuntu,debian" width="auto">
+    </a>
+</p>
+
+**Otros:**
+
+<p align="center">
+    <a href="https://alexanderdev-portafolio.vercel.app/">
+        <img alt="Otros" src="https://skillicons.dev/icons?i=arduino,codepen,stackoverflow" width="auto">
+    </a>
 </p>
 
 ## Proyectos Destacados
