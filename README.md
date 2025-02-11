@@ -6,54 +6,63 @@ Desarrollador de Software apasionado por el desarrollo móvil y web, con experie
 
 Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguientes tecnologías:
 
-<!-- Lenguajes de Programación -->
-<p align="center">
     <strong>**Lenguajes de Programación:**</strong>
+
+<p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
         <img alt="Lenguajes" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,go" width="auto">
     </a>
 </p>
 
 <!-- Frontend (Web) -->
-<p align="center">
+
     <strong>**Frontend (Web):**</strong>
+
+<p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
         <img alt="Frontend" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,materialui,react,redux,angular,vite" width="auto">
     </a>
 </p>
 
 <!-- Backend (Web) -->
-<p align="center">
+
     <strong>**Backend (Web):**</strong>
+
+<p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
         <img alt="Backend" src="https://skillicons.dev/icons?i=laravel,django,flask,php,azure,nodejs" width="auto">
     </a>
 </p>
 
 <!-- Bases de Datos -->
-<p align="center">
+
     <strong>**Bases de Datos:**</strong>
+
+<p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
         <img alt="Bases de Datos" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" width="auto">
     </a>
 </p>
 
 <!-- Herramientas -->
-<p align="center">
+
     <strong>**Herramientas:**</strong>
+
+<p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
         <img alt="Herramientas" src="https://skillicons.dev/icons?i=docker,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse,heroku,gcp,codepen" width="auto">
     </a>
 </p>
 
 <!-- Desarrollo Móvil -->
-<p align="center">
+
     <strong>**Desarrollo Móvil:**</strong>
+
+<p align="center">
     <a href="https://alexanderdev-portafolio.vercel.app/">
         <img alt="Desarrollo Móvil" src="https://skillicons.dev/icons?i=androidstudio,flutter" width="auto">
     </a>
 </p>
-
 
 **Tecnologías y Herramientas (incluyendo SO, Software y BD):**
 
@@ -63,17 +72,17 @@ Con un enfoque **full-stack**, trabajo en front-end y back-end con las siguiente
 
 ## Proyectos Destacados
 
-*   Aplicaciones móviles Android con UX/UI intuitivas y eficientes.
-*   Sistemas web completos con React y Laravel, optimizados para rendimiento y escalabilidad.
-*   Integración de APIs de terceros, microservicios y soluciones full-stack personalizadas.
+-   Aplicaciones móviles Android con UX/UI intuitivas y eficientes.
+-   Sistemas web completos con React y Laravel, optimizados para rendimiento y escalabilidad.
+-   Integración de APIs de terceros, microservicios y soluciones full-stack personalizadas.
 
 ## Motivación
 
 Me motiva:
 
-*   Resolver problemas complejos con la tecnología.
-*   Aprender y experimentar con nuevas herramientas y frameworks.
-*   El trabajo en equipo y la colaboración.
+-   Resolver problemas complejos con la tecnología.
+-   Aprender y experimentar con nuevas herramientas y frameworks.
+-   El trabajo en equipo y la colaboración.
 
 ## Estadísticas de GitHub
 
