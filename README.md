@@ -98,12 +98,13 @@ Me motiva:
 ## Estadísticas de GitHub
 
 <p align="center">
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Alexander-Luna" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander-Luna&theme=react-dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=github_dark&hide_border=true" alt="Estadísticas generales" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=github_dark&layout=compact&hide_border=true" alt="Lenguajes más utilizados" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Alexander-Luna&theme=dracula&column=8&no-bg=true" alt="Trofeos de GitHub" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Luna&theme=github_dark&hide_border=true" alt="Racha de contribuciones" />
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Alexander-Luna" width="400px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Luna&theme=github_dark&hide_border=true" width="400px" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander-Luna&theme=react-dark" width="750px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=github_dark&hide_border=true" width="400px" alt="Estadísticas generales" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=github_dark&layout=compact&hide_border=true" width="400px" height="170px" alt="Lenguajes más utilizados" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Alexander-Luna&theme=dracula&column=8&no-bg=true" alt="Trofeos de GitHub" width="750px" />
+    
   
 </p>
 
