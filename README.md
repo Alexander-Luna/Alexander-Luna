@@ -98,6 +98,7 @@ Me motiva:
 ## Estadísticas de GitHub
 
 <p align="center">
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Alexander-Luna" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander-Luna&theme=react-dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=Alexander-Luna&show_icons=true&theme=github_dark&hide_border=true" alt="Estadísticas generales" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Luna&theme=github_dark&layout=compact&hide_border=true" alt="Lenguajes más utilizados" />
