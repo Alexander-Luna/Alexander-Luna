@@ -100,10 +100,6 @@ Me motiva:
 <p align="center">
     <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Alexander-Luna" width="400px" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Luna&theme=github_dark&hide_border=true" width="400px" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander-Luna&theme=react-dark" width="750px" />
-   
-    
-  
 </p>
 
 ## Contacto
